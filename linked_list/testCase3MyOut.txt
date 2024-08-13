@@ -1,0 +1,248 @@
+Choice		Action
+------		------
+A		Add A Car
+C		Change A Car Model and Make
+D		Display All Cars
+E		Display Cars by Make
+F		Find A Car
+P		Update Car price
+R		Remove Car by VIN
+S		Remove Car by Model and Make
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+Please enter the Car information:
+Enter Car Model:
+Enter Car Make:
+Enter Car Vin:
+Enter Car Price:
+Car "CR-V Honda" is added
+
+What action would you like to perform?
+Please enter the Car information:
+Enter Car Model:
+Enter Car Make:
+Enter Car Vin:
+Enter Car Price:
+Car "F-Series Ford" is added
+
+What action would you like to perform?
+Please enter the Car information:
+Enter Car Model:
+Enter Car Make:
+Enter Car Vin:
+Enter Car Price:
+Car "Camry Toyota" is added
+
+What action would you like to perform?
+Please enter the Car information:
+Enter Car Model:
+Enter Car Make:
+Enter Car Vin:
+Enter Car Price:
+Car "Silverado Chevrolet" is added
+
+What action would you like to perform?
+Please enter the Car information:
+Enter Car Model:
+Enter Car Make:
+Enter Car Vin:
+Enter Car Price:
+Car "Camry Toyota" is added
+
+What action would you like to perform?
+Please enter the Car information:
+Enter Car Model:
+Enter Car Make:
+Enter Car Vin:
+Enter Car Price:
+Car "Camry Toyota" is added
+
+What action would you like to perform?
+Silverado   Chevrolet       3512  34845.00
+F-Series    Ford            2345  46988.00
+CR-V        Honda           7123  28350.00
+Camry       Toyota          1234  25945.00
+Camry       Toyota          6789  25645.00
+Camry       Toyota          7890  28745.00
+
+What action would you like to perform?
+Please enter the Car information:
+Enter Car Model:
+Enter Car Make:
+Enter Car Vin:
+Enter Car Price:
+Car "Corolla Toyota" is added
+
+What action would you like to perform?
+Please enter the Car information:
+Enter Car Model:
+Enter Car Make:
+Enter Car Vin:
+Enter Car Price:
+Car "Silverado Chevrolet" is added
+
+What action would you like to perform?
+Please enter the Car information:
+Enter Car Model:
+Enter Car Make:
+Enter Car Vin:
+Enter Car Price:
+Car "Civic Honda" is added
+
+What action would you like to perform?
+Silverado   Chevrolet       3512  34845.00
+Silverado   Chevrolet       3764  38845.00
+F-Series    Ford            2345  46988.00
+CR-V        Honda           7123  28350.00
+Civic       Honda           2163  31010.00
+Camry       Toyota          1234  25945.00
+Camry       Toyota          6789  25645.00
+Camry       Toyota          7890  28745.00
+Corolla     Toyota          3456  22174.00
+
+What action would you like to perform?
+
+Please enter Car make which you want to display:
+Camry       Toyota          1234  25945.00
+Camry       Toyota          6789  25645.00
+Camry       Toyota          7890  28745.00
+Corolla     Toyota          3456  22174.00
+
+What action would you like to perform?
+
+Please enter Car make which you want to display:
+Silverado   Chevrolet       3512  34845.00
+Silverado   Chevrolet       3764  38845.00
+
+What action would you like to perform?
+
+Please enter Car make which you want to display:
+CR-V        Honda           7123  28350.00
+Civic       Honda           2163  31010.00
+
+What action would you like to perform?
+
+Please enter the Car VIN you want to update the price:
+
+Please enter the new price:
+Car with VIN #: 1234 price was updated
+
+What action would you like to perform?
+Silverado   Chevrolet       3512  34845.00
+Silverado   Chevrolet       3764  38845.00
+F-Series    Ford            2345  46988.00
+CR-V        Honda           7123  28350.00
+Civic       Honda           2163  31010.00
+Camry       Toyota          1234  30000.00
+Camry       Toyota          6789  25645.00
+Camry       Toyota          7890  28745.00
+Corolla     Toyota          3456  22174.00
+
+What action would you like to perform?
+
+Please enter the Car VIN you want to update the price:
+Car with VIN #: 8888 does NOT exist
+
+What action would you like to perform?
+Please enter the Car vin which you want to change the model and make:
+
+Please enter the new model and make: Car VIN #: 2163 model and make was changed
+
+What action would you like to perform?
+Silverado   Chevrolet       3512  34845.00
+Silverado   Chevrolet       3764  38845.00
+F-Series    Ford            2345  46988.00
+Accord      Honda           2163  31010.00
+CR-V        Honda           7123  28350.00
+Camry       Toyota          1234  30000.00
+Camry       Toyota          6789  25645.00
+Camry       Toyota          7890  28745.00
+Corolla     Toyota          3456  22174.00
+
+What action would you like to perform?
+Please enter the Car vin which you want to change the model and make:
+
+Please enter the new model and make: Car is NOT inside the list, cannot Car make and model
+Car VIN #: 3333 does not exist
+
+What action would you like to perform?
+Please enter the Car vin which you want to change the model and make:
+
+Please enter the new model and make: Car VIN #: 7890 model and make was changed
+
+What action would you like to perform?
+Silverado   Chevrolet       3512  34845.00
+Silverado   Chevrolet       3764  38845.00
+F-Series    Ford            2345  46988.00
+Accord      Honda           2163  31010.00
+Accord      Honda           7890  28745.00
+CR-V        Honda           7123  28350.00
+Camry       Toyota          1234  30000.00
+Camry       Toyota          6789  25645.00
+Corolla     Toyota          3456  22174.00
+
+What action would you like to perform?
+Please enter the Car information:
+Enter Car Model:
+Enter Car Make:
+Enter Car Vin:
+Enter Car Price:
+Car "Silverado Chevrolet" is added
+
+What action would you like to perform?
+Silverado   Chevrolet       3512  34845.00
+Silverado   Chevrolet       3764  38845.00
+Silverado   Chevrolet       4531  38945.00
+F-Series    Ford            2345  46988.00
+Accord      Honda           2163  31010.00
+Accord      Honda           7890  28745.00
+CR-V        Honda           7123  28350.00
+Camry       Toyota          1234  30000.00
+Camry       Toyota          6789  25645.00
+Corolla     Toyota          3456  22174.00
+
+What action would you like to perform?
+Please enter Car model you want to remove:
+Please enter Car make you want to remove:
+No such Car found.
+Car: Honda Civic does NOT exist
+
+What action would you like to perform?
+Silverado   Chevrolet       3512  34845.00
+Silverado   Chevrolet       3764  38845.00
+Silverado   Chevrolet       4531  38945.00
+F-Series    Ford            2345  46988.00
+Accord      Honda           2163  31010.00
+Accord      Honda           7890  28745.00
+CR-V        Honda           7123  28350.00
+Camry       Toyota          1234  30000.00
+Camry       Toyota          6789  25645.00
+Corolla     Toyota          3456  22174.00
+
+What action would you like to perform?
+
+Please enter Car make which you want to display:
+Accord      Honda           2163  31010.00
+Accord      Honda           7890  28745.00
+CR-V        Honda           7123  28350.00
+
+What action would you like to perform?
+Please enter Car model you want to remove:
+Please enter Car make you want to remove:
+Car: Toyota Camry was removed
+
+What action would you like to perform?
+Silverado   Chevrolet       3512  34845.00
+Silverado   Chevrolet       3764  38845.00
+Silverado   Chevrolet       4531  38945.00
+F-Series    Ford            2345  46988.00
+Accord      Honda           2163  31010.00
+Accord      Honda           7890  28745.00
+CR-V        Honda           7123  28350.00
+Corolla     Toyota          3456  22174.00
+
+What action would you like to perform?
+The number of deleted Car is: 8

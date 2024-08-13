@@ -1,0 +1,108 @@
+Choice		Action
+------		------
+A		Add A Car
+C		Change A Car Model and Make
+D		Display All Cars
+E		Display Cars by Make
+F		Find A Car
+P		Update Car price
+R		Remove Car by VIN
+S		Remove Car by Model and Make
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+Please enter the Car information:
+Enter Car Model:
+Enter Car Make:
+Enter Car Vin:
+Enter Car Price:
+Car "F-Series Ford" is added
+
+What action would you like to perform?
+Please enter the Car information:
+Enter Car Model:
+Enter Car Make:
+Enter Car Vin:
+Enter Car Price:
+Car "Corolla Toyota" is added
+
+What action would you like to perform?
+Please enter the Car information:
+Enter Car Model:
+Enter Car Make:
+Enter Car Vin:
+Enter Car Price:
+Car "Camry Toyota" is added
+
+What action would you like to perform?
+F-Series    Ford            2345  46988.00
+Camry       Toyota          1234  25945.00
+Corolla     Toyota          5432  22174.00
+
+What action would you like to perform?
+Please enter the Car information:
+Enter Car Model:
+Enter Car Make:
+Enter Car Vin:
+Enter Car Price:
+Car "Lexus Toyota" is added
+
+What action would you like to perform?
+Please enter the Car information:
+Enter Car Model:
+Enter Car Make:
+Enter Car Vin:
+Enter Car Price:
+Car "Explorer Ford" is added
+
+What action would you like to perform?
+Explorer    Ford            6754  21695.00
+F-Series    Ford            2345  46988.00
+Camry       Toyota          1234  25945.00
+Corolla     Toyota          5432  22174.00
+Lexus       Toyota          6789  45920.00
+
+What action would you like to perform?
+Please enter the Car information:
+Enter Car Model:
+Enter Car Make:
+Enter Car Vin:
+Enter Car Price:
+Car "Camry Toyota" is added
+
+What action would you like to perform?
+Explorer    Ford            6754  21695.00
+F-Series    Ford            2345  46988.00
+Camry       Toyota          1234  25945.00
+Camry       Toyota          3210  25645.00
+Corolla     Toyota          5432  22174.00
+Lexus       Toyota          6789  45920.00
+
+What action would you like to perform?
+
+Please enter the car VIN you want to search:
+
+Car with VIN #: 6754 was found
+
+What action would you like to perform?
+
+Please enter the car VIN you want to search:
+
+Car with VIN #: 1234 was found
+
+What action would you like to perform?
+
+Please enter the car VIN you want to search:
+
+Car with VIN #: 4002 was NOT found
+
+What action would you like to perform?
+
+Please enter the car VIN you want to search:
+
+Car with VIN #: 3210 was found
+
+What action would you like to perform?
+The number of deleted Car is: 6
