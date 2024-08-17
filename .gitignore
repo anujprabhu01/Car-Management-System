@@ -1,0 +1,15 @@
+#ingore executables in all directories
+**/exe
+#ignore .DS_Store files in all directories
+**/.DS_Store
+#ignore .dSYM directories in all directories
+**/.dSYM
+**/.dSYM/
+**/exe.dSYM
+**/exe.dSYM/
+#ignore .swp files in all directories
+**/.swp
+#ignore .env files in all directories
+**/.env
+#ignore .vscode directories in all directories
+**/.vscode
