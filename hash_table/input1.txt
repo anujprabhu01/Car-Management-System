@@ -1,0 +1,21 @@
+5
+Mustang,Ford,137178,7500.0
+XJS,Jaguar,119660,8750.0
+Mustang,Ford,80773,11600.0
+N911,Porsche,64287,44000.0
+Montclair,Mercury,132695,950.0
+Montclair,Mercury,132829,950.0
+Defender,Land Rover,5250,70000.0
+Civic,Honda,29023,1330.0
+GTO,Pontiac,80293,25200.0
+Wrangler,Jeep,158271,20000.0
+Wrangler,Jeep,72418,14100.0
+F-100,Ford,91661,5700.0
+Prius,Toyota,119358,6000.0
+Celica,Toyota,131969,4000.0
+Wrangler,Jeep,84062,3820.0
+LeSabre,Buick,144540,3330.0
+InsertionEnd
+2
+hashLoadFactor
+hashDisplay

@@ -1,0 +1,30 @@
+Enter the size of the hash table: 
+The ideal load factor is: 3.20
+My hash table real load factor is: 5.00
+My hash table performance ratio is: 1.56
+
+HashTable[0], size = 5
+LeSabre           Buick               144540   3330.00
+Wrangler          Jeep                 84062   3820.00
+F-100             Ford                 91661   5700.00
+Wrangler          Jeep                 72418  14100.00
+GTO               Pontiac              80293  25200.00
+
+HashTable[1], size = 2
+Montclair         Mercury             132829    950.00
+N911              Porsche              64287  44000.00
+
+HashTable[2], size = 4
+Prius             Toyota              119358   6000.00
+Wrangler          Jeep                158271  20000.00
+Civic             Honda                29023   1330.00
+Mustang           Ford                137178   7500.00
+
+HashTable[3], size = 2
+Celica            Toyota              131969   4000.00
+Montclair         Mercury             132695    950.00
+
+HashTable[4], size = 3
+Defender          Land Rover            5250  70000.00
+Mustang           Ford                 80773  11600.00
+XJS               Jaguar              119660   8750.00

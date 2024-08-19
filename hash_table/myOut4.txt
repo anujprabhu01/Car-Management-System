@@ -1,0 +1,778 @@
+Your output:  Enter the size of the hash table: 
+The ideal load factor is: 17.32
+My hash table real load factor is: 25.00
+My hash table performance ratio is: 1.44
+
+HashTable[0], size = 16
+300TD             Mercedes-Benz       145607   2500.00
+N911              Porsche              94114  30600.00
+Scamp             Plymouth             42021   7000.00
+S-Class           Mercedes-Benz        67219   3150.00
+CJ                Jeep                 64667   4700.00
+Wrangler          Jeep                146666  36200.00
+Continental       Lincoln              51723  10100.00
+CJ                Jeep                152902   8400.00
+Other             Toyota               13530   6800.00
+Mustang           Ford                134576   5100.00
+GTO               Pontiac              13695   6000.00
+Other Pickups     Chevrolet             1297  15800.00
+4C                Alfa Romeo          109824  41400.00
+C/K Pickup 1500   Chevrolet            73586   6800.00
+Bel Air/150/210   Chevrolet            39425  26000.00
+Malibu            Chevrolet            54860    600.00
+
+HashTable[1], size = 17
+LS                Lexus                 7491   6900.00
+Mustang           Ford                 68902   7200.00
+Viper             Dodge               139764  26800.00
+Cherokee          Jeep                137169   1030.00
+Corvair           Chevrolet            39270   5800.00
+XTS               Cadillac             65535   3500.00
+Mustang           Ford                 69253  12000.00
+C-10              Chevrolet             4246   5600.00
+Impala            Chevrolet           132002   2550.00
+Bus/Vanagon       Volkswagen           87723  34900.00
+F-250             Ford                147367  14000.00
+Charger           Dodge               158023  41100.00
+Accord            Honda                61535   1320.00
+Mustang           Ford                 13696   3750.00
+Trans Am          Pontiac              82230   3000.00
+Mustang           Ford                 45088   1030.00
+Monte Carlo       Chevrolet           126322  10650.00
+
+HashTable[2], size = 22
+Impala            Chevrolet             1835  19300.00
+Other Pickups     Chevrolet             2590   1600.00
+Land Cruiser      Toyota               82380    470.00
+N348              Ferrari              14907  40600.00
+F-150             Ford                 57952  20500.00
+Mustang           Ford                142169   8300.00
+Camaro            Chevrolet           115235   3000.00
+Wrangler          Jeep                139661   8000.00
+Trooper           Isuzu                67218   4650.00
+Corvette          Chevrolet           116223  12100.00
+B-Series Pickups  Mazda                 9082   2130.00
+Bus/Vanagon       Volkswagen          145735  19350.00
+3-Series          BMW                 158121   5200.00
+3000GT            Mitsubishi           45724   2030.00
+Suburban          Chevrolet           142945  10560.00
+Tundra            Toyota               14523  12500.00
+Grand Am          Pontiac             109930    610.00
+C-10              Chevrolet             1013  15100.00
+Monte Carlo       Chevrolet           159144  17000.00
+Monte Carlo       Chevrolet           102867   9600.00
+Other             Cadillac             91901   8200.00
+Ram 3500          Dodge               102329  34000.00
+
+HashTable[3], size = 14
+Other Pickups     Nissan              100937    700.00
+M3                BMW                  14253  10000.00
+Mazda3            Mazda                48314   2250.00
+Allante           Cadillac             49536   2800.00
+E-Series Van      Ford                 88420   4000.00
+XC90              Volvo                32821  19940.00
+Mustang           Ford                 73831  12900.00
+Sprinter          Mercedes-Benz        38120  28500.00
+Charger           Dodge                 8351   4500.00
+GTO               Pontiac              85457   7700.00
+Mustang           Ford                 51853  33000.00
+Mustang           Ford                123240  28500.00
+Impala            Chevrolet            42405    560.00
+Bel Air/150/210   Chevrolet            49249   4200.00
+
+HashTable[4], size = 15
+N308              Ferrari              95134  39100.00
+G T O             PONTlAC              41533  18400.00
+Fiesta            Ford                   514   6000.00
+Mustang           Ford                111629   2430.00
+X5                BMW                  92819   1530.00
+Impala            Chevrolet            32549   2800.00
+B-Series Pickups  Mazda                16756   2430.00
+F-450             Ford                 45508   5900.00
+3-Series          BMW                  39346   2080.00
+F-350             Ford                 19049   7370.00
+5-Series          BMW                   4334   1010.00
+Ranger            Ford                  4525    710.00
+300ZX             Nissan               86290   1110.00
+Beetle (Pre-1980) Volkswagen          130344   6500.00
+N66               Oldsmobile           41416   4110.00
+
+HashTable[5], size = 20
+El Camino         Chevrolet           139221  10900.00
+Other Pickups     Dodge               143643   3500.00
+Blazer            Chevrolet           139843    700.00
+Crown Victoria    Ford                 94578   2130.00
+Mustang           Ford                 10774  13900.00
+f900              Ford                  2373   3600.00
+Scout             International Harvester   61475   2000.00
+Chevelle          Chevrolet            33787  27500.00
+H1                Hummer               39464   1700.00
+GTC               Puma                 46100   3500.00
+Model T           Ford                129969  21000.00
+Cordoba           Chrysler            103380   1730.00
+Bronco            Ford                  7805    970.00
+Malibu            Chevrolet           152133  20100.00
+Mustang           Ford                 16264  17000.00
+Mondial           Ferrari               8670 185000.00
+Other Pickups     Chevrolet           146207  10000.00
+C-10              Chevrolet           151984  27600.00
+Wrangler          Jeep                122601  10500.00
+Mustang           Ford                159715   6300.00
+
+HashTable[6], size = 19
+Herald            Triumph             108226    300.00
+J10               Jeep                146070  12000.00
+Cayenne           Porsche             121952  12450.00
+N911              Porsche             151903  17600.00
+N911              Porsche              94592  48600.00
+CJ                Jeep                 35345   7400.00
+Plus Four         Morgan               91427  26790.00
+E-Class           Mercedes-Benz       105446   6000.00
+Mustang           Ford                 82845   9200.00
+Ram 2500          Dodge                58171   8500.00
+Kizashi           Suzuki               84873   5900.00
+Frontier          Nissan               71911   6200.00
+Mustang           Ford                 28827  10000.00
+Cutlass           Oldsmobile          113595   6500.00
+Mustang           Ford                139779  32000.00
+Baja              Subaru              140773   1720.00
+F-350             Ford                 75800  10000.00
+Mustang           Ford                132281  41500.00
+200-Series        Mercedes-Benz       116134   3050.00
+
+HashTable[7], size = 14
+Camaro            Chevrolet           131077   1000.00
+M45               Infiniti             35286    410.00
+3-Series          BMW                 130574   7500.00
+G35               Infiniti            126723   1000.00
+Thunderbird       Ford                139639   4700.00
+Cutlass           Oldsmobile           88160  15650.00
+Corvette          Chevrolet            96480  16100.00
+E-Series Van      Ford                 99962   4050.00
+Optima            Kia                  14099   6000.00
+Impala            Chevrolet            39367   7100.00
+Corvette          Chevrolet            89280   6100.00
+Camaro            Chevrolet            90857   4500.00
+Genesis           Hyundai             142084   2750.00
+C1500             Chevrolet           151928  15500.00
+
+HashTable[8], size = 14
+Fleetwood         Cadillac             98530   5200.00
+Brookwood         Chevrolet            96135   8100.00
+Karmann Ghia      Volkswagen           42942   1580.00
+7-Series          BMW                  47031   3500.00
+F-150             Ford                115687    820.00
+Wrangler          Jeep                143243  10100.00
+F-350             Ford                 33731   1800.00
+3-Series          BMW                  14077   3950.00
+Bbody             DODGE CHARGER       100369   3930.00
+Impreza           Subaru              143064   6700.00
+Challenger        Dodge               108784  25060.00
+Power Wagon       Dodge               122603   6360.00
+F-350             Ford                 72404   2130.00
+Passat            Volkswagen          131274    850.00
+
+HashTable[9], size = 20
+SL-Class          Mercedes-Benz        36822   2360.00
+N912              Porsche             160394   5850.00
+Corvette          Chevrolet           139596   6400.00
+F-350             Ford                  3625   2550.00
+Cherokee          Jeep                 49615   5100.00
+XC90              Volvo               113551    400.00
+F-350             Ford                111363   6000.00
+3 Window Coupe    Ford                 41596  16600.00
+Accord            Honda                45756   1750.00
+Chevelle          Chevrolet           141150  10500.00
+Town Car          Lincoln             153922   6850.00
+CJ                Jeep                 34684   1280.00
+Touareg           Volkswagen          145400    450.00
+Ram 2500          Dodge                79902   7800.00
+Beetle - Classic  Volkswagen           88803   3050.00
+Wrangler          Jeep                 89909   4500.00
+Ranchero          Ford                 73591    720.00
+N442              Oldsmobile           66971   6400.00
+Mustang           Ford                 32080   6430.00
+300-Series        Mercedes-Benz       140294   5010.00
+
+HashTable[10], size = 10
+C-10              Chevrolet            17373   9010.00
+Spider            Alfa Romeo           36233   8430.00
+Wrangler          Jeep                102524   8800.00
+Mark Series       Lincoln              40450  11900.00
+Civic             Honda                56968   4600.00
+CJ                Jeep                145571   6000.00
+Yukon             GMC                   4333   1580.00
+Mustang           Ford                  1326   8650.00
+Other             International Harvester  102221   6110.00
+Bel Air/150/210   Chevrolet           102536  23000.00
+
+HashTable[11], size = 20
+Other             International Harvester   19529   5000.00
+F-150             Ford                100265   2860.00
+Challenger        Dodge                39255  45000.00
+HHR               Chevrolet            18210   2850.00
+Allante           Cadillac            144807   2550.00
+Fiero             Pontiac              12904   4470.00
+Ranchero          Ford                138757   7330.00
+J10               Jeep                126560   8000.00
+4Runner           Toyota               76082   6100.00
+Fusion            Ford                 17707   5950.00
+F-2500            Ram                  62269    940.00
+Nova              Chevrolet             7314   9900.00
+Silverado 1500    Chevrolet             1047  12700.00
+Explorer          Ford                151282  14500.00
+Fairmont          Ford                 17667   1280.00
+Camaro            Chevrolet            18176   1930.00
+Mustang           Ford                122806  12100.00
+XK8               Jaguar              165327   4600.00
+XK8               Jaguar              165147   3950.00
+XK8               Jaguar              165408   3900.00
+
+HashTable[12], size = 21
+Trailblazer       Chevrolet           115354   2980.00
+Commander         Jeep                154570   9700.00
+N911              Porsche              14195  34540.00
+Sierra 2500       GMC                 130737   3500.00
+Mustang           Ford                 46440  15200.00
+Duster            Plymouth             80211   7000.00
+Cayman            Porsche              63220  12100.00
+Chevy             Chevrolet            81731  18900.00
+Meteor            Mercury              87683   5600.00
+Transit Connect   Ford                 67193   3550.00
+MGB               MG                  135601   4500.00
+Mustang           Ford                108990   4500.00
+Corvette          Chevrolet            95366  10500.00
+Town Car          Lincoln             144927   4150.00
+H1                Hummer               90583  30100.00
+Corvette          Chevrolet            89912  13700.00
+Firebird          Pontiac              58216   2500.00
+Corvette          Chevrolet           131464   7100.00
+Thunderbird       Ford                161889   3150.00
+C-10              Chevrolet            33291  25000.00
+XK8               Jaguar              129794   2720.00
+
+HashTable[13], size = 19
+Corvette          Chevrolet           121797   6450.00
+Neon              Dodge                92951    200.00
+Tahoe             Chevrolet            78242   5500.00
+Mustang           Ford                142711   7000.00
+Bronco II         Ford                 78680   6800.00
+Corvette          Chevrolet           115695   5400.00
+Bel Air/150/210   Chevrolet            94694   5150.00
+C/K Pickup 1500   Chevrolet            71515   2000.00
+Yukon             GMC                  67338    680.00
+F-250             Ford                 59997   7600.00
+Crown Victoria    Ford                143210  28100.00
+Suburban          GMC                  80779   3050.00
+Cooper S          Mini                 84574   1500.00
+GTO               Pontiac              96819   5000.00
+Wrangler          Jeep                123157  44100.00
+Mustang           Ford                  1295  15000.00
+Devin Crosley     Other Makes          81245   6600.00
+Camaro            Chevrolet            48143  12000.00
+N3000             Austin Healey        87061   6200.00
+
+HashTable[14], size = 18
+N308              Ferrari              36638  38000.00
+Defender          Land Rover          126465  22000.00
+4Runner           Toyota              110943   3550.00
+3-Series          BMW                 151480   6600.00
+Fairlane          Ford                115989  26000.00
+Beetle - Classic  Volkswagen           31042    510.00
+Challenger        Dodge               139330  12100.00
+Fiero             Pontiac             138666   3250.00
+Thunderbird       Ford                139395   5250.00
+F-150             Ford                 77942  14100.00
+Integra           Acura               119355  15100.00
+CJ                Jeep                 76527   9010.00
+C/K Pickup 1500   Chevrolet            33597  11300.00
+Matrix            Toyota                3628   1580.00
+Seville           Cadillac             94313   5550.00
+Firebird          Pontiac              71362   2800.00
+Power Wagon       Dodge                66877  15000.00
+Mustang           Ford                 51180  14100.00
+
+HashTable[15], size = 17
+Ram 1500          Dodge                67204    800.00
+Silverado 3500    Chevrolet            59963   7200.00
+F-250             Ford                108809   9600.00
+Escape            Ford                 77855  11000.00
+7-Series          BMW                 143681  14000.00
+60 Special        Cadillac             92475   9500.00
+Ram 1500          Dodge                41374    500.00
+Silverado 1500    Chevrolet           119940  14000.00
+Charger           Dodge                  801   9600.00
+Riviera           Buick               153904  10000.00
+Other             Dodge                 3731   8360.00
+Accord            Honda               118395   1160.00
+Other Pickups     Chevrolet           149316   7700.00
+Titan             Nissan              109929   1080.00
+Barracuda         Plymouth            149332  13280.00
+Marauder          Mercury             152534   3500.00
+3-Series          BMW                  71334   2000.00
+
+HashTable[16], size = 16
+Other             International Harvester    2494   1600.00
+Bonneville        Pontiac             142546  10870.00
+Corvair           Chevrolet            88056   6000.00
+N355              Ferrari              28434  52500.00
+M6                BMW                 151977  16400.00
+Xterra            Nissan              111633    710.00
+Evoque            Land Rover           95815  10500.00
+Duster            Plymouth             94282   8500.00
+Thunderbird       Ford                100610   1730.00
+Other             Chevrolet            84981    540.00
+SEDAN             CHEVROLET           112230   8000.00
+DTS               Cadillac            121467   3500.00
+Hornet            AMC                  31668   9600.00
+Grand Prix        Pontiac             108166   2080.00
+N150              International Harvester  123670  16000.00
+Charger           Dodge               121588   3000.00
+
+HashTable[17], size = 12
+3-Series          BMW                  86749   8300.00
+Gallardo          Lamborghini         130267 100300.00
+E-Series Van      Ford                145838   1200.00
+Viper             Dodge               117790  24200.00
+Corvette          Chevrolet           111666   4100.00
+Sprinter          Dodge               106689   2740.00
+Grand Prix        Pontiac              93351   1000.00
+Other Pickups     Chevrolet             9643   3750.00
+M3                BMW                  75758   7000.00
+Mustang           Ford                 16265  12600.00
+Le Mans           Pontiac             140891  23500.00
+SL-Class          Mercedes-Benz        47269   6300.00
+
+HashTable[18], size = 25
+Corvette          Chevrolet            45362   7500.00
+Comet             Mercury              62467   6500.00
+Accord            Honda               130810   1200.00
+Supra             Toyota               12083  17100.00
+5-Series          BMW                  30549   2130.00
+Montero           Mitsubishi           49535   2500.00
+Sentra            Nissan               77854   5210.00
+Explorer          Ford                 96481   1080.00
+Bel Air/150/210   Chevrolet            60504   1700.00
+EuroVan           Volkswagen           29058   1530.00
+F-250             Ford                 75208   5950.00
+Grand National    Buick                80139   2500.00
+Blazer            Chevrolet            68275  20600.00
+Fleetwood         Cadillac            111691   9100.00
+F-150             Ford                 58226  15200.00
+F-150             Ford                 16682   2900.00
+Odyssey           Honda               118451  19500.00
+Charger           Dodge               116329   5000.00
+Charger           Dodge               158107   8000.00
+Roadrunner        Plymouth            138219  10200.00
+IS                Lexus                93212   4200.00
+CJ                Jeep                 13647   3250.00
+Mustang           Ford                105651   6200.00
+Karmann Ghia      Volkswagen          116133    920.00
+Mustang           Ford                136503   2030.00
+
+               XK8            Jaguar  129794 is found inside the hash table.
+
+        60 Special          Cadillac   92475 is found inside the hash table.
+
+         El Camino         Chevrolet  139221 is found inside the hash table.
+
+XK8               Jaguar            165400   is NOT found inside the hash table.
+
+XK8               Jaguar            165408   is found inside the hash table.
+
+XK8               Jaguar            165408   is deleted from hash table.
+
+XK8               Jaguar            129794   is found inside the hash table.
+
+XK8               Jaguar            129794   is deleted from hash table.
+
+3-Series          BMW               86749    is found inside the hash table.
+
+3-Series          BMW               86749    is deleted from hash table.
+
+Wrangler          Jeep              139661   is found inside the hash table.
+
+Wrangler          Jeep              139661   is deleted from hash table.
+
+C-10              Chevrolet         36233    is NOT found inside the hash table.
+
+C-10              Chevrolet         36233    is NOT deleted from hash table.
+
+F-250             Ford              108809   is found inside the hash table.
+
+F-250             Ford              108809   is deleted from hash table.
+
+Accord            Honda             61535    is found inside the hash table.
+
+Accord            Honda             61535    is deleted from hash table.
+
+Mustang           Ford              132281   is found inside the hash table.
+
+Mustang           Ford              132281   is deleted from hash table.
+
+Corvette          Chevrolet         115695   is found inside the hash table.
+
+Corvette          Chevrolet         115695   is deleted from hash table.
+
+The ideal load factor is: 16.89
+My hash table real load factor is: 25.00
+My hash table performance ratio is: 1.48
+
+HashTable[0], size = 16
+300TD             Mercedes-Benz       145607   2500.00
+N911              Porsche              94114  30600.00
+Scamp             Plymouth             42021   7000.00
+S-Class           Mercedes-Benz        67219   3150.00
+CJ                Jeep                 64667   4700.00
+Wrangler          Jeep                146666  36200.00
+Continental       Lincoln              51723  10100.00
+CJ                Jeep                152902   8400.00
+Other             Toyota               13530   6800.00
+Mustang           Ford                134576   5100.00
+GTO               Pontiac              13695   6000.00
+Other Pickups     Chevrolet             1297  15800.00
+4C                Alfa Romeo          109824  41400.00
+C/K Pickup 1500   Chevrolet            73586   6800.00
+Bel Air/150/210   Chevrolet            39425  26000.00
+Malibu            Chevrolet            54860    600.00
+
+HashTable[1], size = 16
+LS                Lexus                 7491   6900.00
+Mustang           Ford                 68902   7200.00
+Viper             Dodge               139764  26800.00
+Cherokee          Jeep                137169   1030.00
+Corvair           Chevrolet            39270   5800.00
+XTS               Cadillac             65535   3500.00
+Mustang           Ford                 69253  12000.00
+C-10              Chevrolet             4246   5600.00
+Impala            Chevrolet           132002   2550.00
+Bus/Vanagon       Volkswagen           87723  34900.00
+F-250             Ford                147367  14000.00
+Charger           Dodge               158023  41100.00
+Mustang           Ford                 13696   3750.00
+Trans Am          Pontiac              82230   3000.00
+Mustang           Ford                 45088   1030.00
+Monte Carlo       Chevrolet           126322  10650.00
+
+HashTable[2], size = 21
+Impala            Chevrolet             1835  19300.00
+Other Pickups     Chevrolet             2590   1600.00
+Land Cruiser      Toyota               82380    470.00
+N348              Ferrari              14907  40600.00
+F-150             Ford                 57952  20500.00
+Mustang           Ford                142169   8300.00
+Camaro            Chevrolet           115235   3000.00
+Trooper           Isuzu                67218   4650.00
+Corvette          Chevrolet           116223  12100.00
+B-Series Pickups  Mazda                 9082   2130.00
+Bus/Vanagon       Volkswagen          145735  19350.00
+3-Series          BMW                 158121   5200.00
+3000GT            Mitsubishi           45724   2030.00
+Suburban          Chevrolet           142945  10560.00
+Tundra            Toyota               14523  12500.00
+Grand Am          Pontiac             109930    610.00
+C-10              Chevrolet             1013  15100.00
+Monte Carlo       Chevrolet           159144  17000.00
+Monte Carlo       Chevrolet           102867   9600.00
+Other             Cadillac             91901   8200.00
+Ram 3500          Dodge               102329  34000.00
+
+HashTable[3], size = 14
+Other Pickups     Nissan              100937    700.00
+M3                BMW                  14253  10000.00
+Mazda3            Mazda                48314   2250.00
+Allante           Cadillac             49536   2800.00
+E-Series Van      Ford                 88420   4000.00
+XC90              Volvo                32821  19940.00
+Mustang           Ford                 73831  12900.00
+Sprinter          Mercedes-Benz        38120  28500.00
+Charger           Dodge                 8351   4500.00
+GTO               Pontiac              85457   7700.00
+Mustang           Ford                 51853  33000.00
+Mustang           Ford                123240  28500.00
+Impala            Chevrolet            42405    560.00
+Bel Air/150/210   Chevrolet            49249   4200.00
+
+HashTable[4], size = 15
+N308              Ferrari              95134  39100.00
+G T O             PONTlAC              41533  18400.00
+Fiesta            Ford                   514   6000.00
+Mustang           Ford                111629   2430.00
+X5                BMW                  92819   1530.00
+Impala            Chevrolet            32549   2800.00
+B-Series Pickups  Mazda                16756   2430.00
+F-450             Ford                 45508   5900.00
+3-Series          BMW                  39346   2080.00
+F-350             Ford                 19049   7370.00
+5-Series          BMW                   4334   1010.00
+Ranger            Ford                  4525    710.00
+300ZX             Nissan               86290   1110.00
+Beetle (Pre-1980) Volkswagen          130344   6500.00
+N66               Oldsmobile           41416   4110.00
+
+HashTable[5], size = 20
+El Camino         Chevrolet           139221  10900.00
+Other Pickups     Dodge               143643   3500.00
+Blazer            Chevrolet           139843    700.00
+Crown Victoria    Ford                 94578   2130.00
+Mustang           Ford                 10774  13900.00
+f900              Ford                  2373   3600.00
+Scout             International Harvester   61475   2000.00
+Chevelle          Chevrolet            33787  27500.00
+H1                Hummer               39464   1700.00
+GTC               Puma                 46100   3500.00
+Model T           Ford                129969  21000.00
+Cordoba           Chrysler            103380   1730.00
+Bronco            Ford                  7805    970.00
+Malibu            Chevrolet           152133  20100.00
+Mustang           Ford                 16264  17000.00
+Mondial           Ferrari               8670 185000.00
+Other Pickups     Chevrolet           146207  10000.00
+C-10              Chevrolet           151984  27600.00
+Wrangler          Jeep                122601  10500.00
+Mustang           Ford                159715   6300.00
+
+HashTable[6], size = 18
+Herald            Triumph             108226    300.00
+J10               Jeep                146070  12000.00
+Cayenne           Porsche             121952  12450.00
+N911              Porsche             151903  17600.00
+N911              Porsche              94592  48600.00
+CJ                Jeep                 35345   7400.00
+Plus Four         Morgan               91427  26790.00
+E-Class           Mercedes-Benz       105446   6000.00
+Mustang           Ford                 82845   9200.00
+Ram 2500          Dodge                58171   8500.00
+Kizashi           Suzuki               84873   5900.00
+Frontier          Nissan               71911   6200.00
+Mustang           Ford                 28827  10000.00
+Cutlass           Oldsmobile          113595   6500.00
+Mustang           Ford                139779  32000.00
+Baja              Subaru              140773   1720.00
+F-350             Ford                 75800  10000.00
+200-Series        Mercedes-Benz       116134   3050.00
+
+HashTable[7], size = 14
+Camaro            Chevrolet           131077   1000.00
+M45               Infiniti             35286    410.00
+3-Series          BMW                 130574   7500.00
+G35               Infiniti            126723   1000.00
+Thunderbird       Ford                139639   4700.00
+Cutlass           Oldsmobile           88160  15650.00
+Corvette          Chevrolet            96480  16100.00
+E-Series Van      Ford                 99962   4050.00
+Optima            Kia                  14099   6000.00
+Impala            Chevrolet            39367   7100.00
+Corvette          Chevrolet            89280   6100.00
+Camaro            Chevrolet            90857   4500.00
+Genesis           Hyundai             142084   2750.00
+C1500             Chevrolet           151928  15500.00
+
+HashTable[8], size = 14
+Fleetwood         Cadillac             98530   5200.00
+Brookwood         Chevrolet            96135   8100.00
+Karmann Ghia      Volkswagen           42942   1580.00
+7-Series          BMW                  47031   3500.00
+F-150             Ford                115687    820.00
+Wrangler          Jeep                143243  10100.00
+F-350             Ford                 33731   1800.00
+3-Series          BMW                  14077   3950.00
+Bbody             DODGE CHARGER       100369   3930.00
+Impreza           Subaru              143064   6700.00
+Challenger        Dodge               108784  25060.00
+Power Wagon       Dodge               122603   6360.00
+F-350             Ford                 72404   2130.00
+Passat            Volkswagen          131274    850.00
+
+HashTable[9], size = 20
+SL-Class          Mercedes-Benz        36822   2360.00
+N912              Porsche             160394   5850.00
+Corvette          Chevrolet           139596   6400.00
+F-350             Ford                  3625   2550.00
+Cherokee          Jeep                 49615   5100.00
+XC90              Volvo               113551    400.00
+F-350             Ford                111363   6000.00
+3 Window Coupe    Ford                 41596  16600.00
+Accord            Honda                45756   1750.00
+Chevelle          Chevrolet           141150  10500.00
+Town Car          Lincoln             153922   6850.00
+CJ                Jeep                 34684   1280.00
+Touareg           Volkswagen          145400    450.00
+Ram 2500          Dodge                79902   7800.00
+Beetle - Classic  Volkswagen           88803   3050.00
+Wrangler          Jeep                 89909   4500.00
+Ranchero          Ford                 73591    720.00
+N442              Oldsmobile           66971   6400.00
+Mustang           Ford                 32080   6430.00
+300-Series        Mercedes-Benz       140294   5010.00
+
+HashTable[10], size = 10
+C-10              Chevrolet            17373   9010.00
+Spider            Alfa Romeo           36233   8430.00
+Wrangler          Jeep                102524   8800.00
+Mark Series       Lincoln              40450  11900.00
+Civic             Honda                56968   4600.00
+CJ                Jeep                145571   6000.00
+Yukon             GMC                   4333   1580.00
+Mustang           Ford                  1326   8650.00
+Other             International Harvester  102221   6110.00
+Bel Air/150/210   Chevrolet           102536  23000.00
+
+HashTable[11], size = 19
+Other             International Harvester   19529   5000.00
+F-150             Ford                100265   2860.00
+Challenger        Dodge                39255  45000.00
+HHR               Chevrolet            18210   2850.00
+Allante           Cadillac            144807   2550.00
+Fiero             Pontiac              12904   4470.00
+Ranchero          Ford                138757   7330.00
+J10               Jeep                126560   8000.00
+4Runner           Toyota               76082   6100.00
+Fusion            Ford                 17707   5950.00
+F-2500            Ram                  62269    940.00
+Nova              Chevrolet             7314   9900.00
+Silverado 1500    Chevrolet             1047  12700.00
+Explorer          Ford                151282  14500.00
+Fairmont          Ford                 17667   1280.00
+Camaro            Chevrolet            18176   1930.00
+Mustang           Ford                122806  12100.00
+XK8               Jaguar              165327   4600.00
+XK8               Jaguar              165147   3950.00
+
+HashTable[12], size = 20
+Trailblazer       Chevrolet           115354   2980.00
+Commander         Jeep                154570   9700.00
+N911              Porsche              14195  34540.00
+Sierra 2500       GMC                 130737   3500.00
+Mustang           Ford                 46440  15200.00
+Duster            Plymouth             80211   7000.00
+Cayman            Porsche              63220  12100.00
+Chevy             Chevrolet            81731  18900.00
+Meteor            Mercury              87683   5600.00
+Transit Connect   Ford                 67193   3550.00
+MGB               MG                  135601   4500.00
+Mustang           Ford                108990   4500.00
+Corvette          Chevrolet            95366  10500.00
+Town Car          Lincoln             144927   4150.00
+H1                Hummer               90583  30100.00
+Corvette          Chevrolet            89912  13700.00
+Firebird          Pontiac              58216   2500.00
+Corvette          Chevrolet           131464   7100.00
+Thunderbird       Ford                161889   3150.00
+C-10              Chevrolet            33291  25000.00
+
+HashTable[13], size = 18
+Corvette          Chevrolet           121797   6450.00
+Neon              Dodge                92951    200.00
+Tahoe             Chevrolet            78242   5500.00
+Mustang           Ford                142711   7000.00
+Bronco II         Ford                 78680   6800.00
+Bel Air/150/210   Chevrolet            94694   5150.00
+C/K Pickup 1500   Chevrolet            71515   2000.00
+Yukon             GMC                  67338    680.00
+F-250             Ford                 59997   7600.00
+Crown Victoria    Ford                143210  28100.00
+Suburban          GMC                  80779   3050.00
+Cooper S          Mini                 84574   1500.00
+GTO               Pontiac              96819   5000.00
+Wrangler          Jeep                123157  44100.00
+Mustang           Ford                  1295  15000.00
+Devin Crosley     Other Makes          81245   6600.00
+Camaro            Chevrolet            48143  12000.00
+N3000             Austin Healey        87061   6200.00
+
+HashTable[14], size = 18
+N308              Ferrari              36638  38000.00
+Defender          Land Rover          126465  22000.00
+4Runner           Toyota              110943   3550.00
+3-Series          BMW                 151480   6600.00
+Fairlane          Ford                115989  26000.00
+Beetle - Classic  Volkswagen           31042    510.00
+Challenger        Dodge               139330  12100.00
+Fiero             Pontiac             138666   3250.00
+Thunderbird       Ford                139395   5250.00
+F-150             Ford                 77942  14100.00
+Integra           Acura               119355  15100.00
+CJ                Jeep                 76527   9010.00
+C/K Pickup 1500   Chevrolet            33597  11300.00
+Matrix            Toyota                3628   1580.00
+Seville           Cadillac             94313   5550.00
+Firebird          Pontiac              71362   2800.00
+Power Wagon       Dodge                66877  15000.00
+Mustang           Ford                 51180  14100.00
+
+HashTable[15], size = 16
+Ram 1500          Dodge                67204    800.00
+Silverado 3500    Chevrolet            59963   7200.00
+Escape            Ford                 77855  11000.00
+7-Series          BMW                 143681  14000.00
+60 Special        Cadillac             92475   9500.00
+Ram 1500          Dodge                41374    500.00
+Silverado 1500    Chevrolet           119940  14000.00
+Charger           Dodge                  801   9600.00
+Riviera           Buick               153904  10000.00
+Other             Dodge                 3731   8360.00
+Accord            Honda               118395   1160.00
+Other Pickups     Chevrolet           149316   7700.00
+Titan             Nissan              109929   1080.00
+Barracuda         Plymouth            149332  13280.00
+Marauder          Mercury             152534   3500.00
+3-Series          BMW                  71334   2000.00
+
+HashTable[16], size = 16
+Other             International Harvester    2494   1600.00
+Bonneville        Pontiac             142546  10870.00
+Corvair           Chevrolet            88056   6000.00
+N355              Ferrari              28434  52500.00
+M6                BMW                 151977  16400.00
+Xterra            Nissan              111633    710.00
+Evoque            Land Rover           95815  10500.00
+Duster            Plymouth             94282   8500.00
+Thunderbird       Ford                100610   1730.00
+Other             Chevrolet            84981    540.00
+SEDAN             CHEVROLET           112230   8000.00
+DTS               Cadillac            121467   3500.00
+Hornet            AMC                  31668   9600.00
+Grand Prix        Pontiac             108166   2080.00
+N150              International Harvester  123670  16000.00
+Charger           Dodge               121588   3000.00
+
+HashTable[17], size = 11
+Gallardo          Lamborghini         130267 100300.00
+E-Series Van      Ford                145838   1200.00
+Viper             Dodge               117790  24200.00
+Corvette          Chevrolet           111666   4100.00
+Sprinter          Dodge               106689   2740.00
+Grand Prix        Pontiac              93351   1000.00
+Other Pickups     Chevrolet             9643   3750.00
+M3                BMW                  75758   7000.00
+Mustang           Ford                 16265  12600.00
+Le Mans           Pontiac             140891  23500.00
+SL-Class          Mercedes-Benz        47269   6300.00
+
+HashTable[18], size = 25
+Corvette          Chevrolet            45362   7500.00
+Comet             Mercury              62467   6500.00
+Accord            Honda               130810   1200.00
+Supra             Toyota               12083  17100.00
+5-Series          BMW                  30549   2130.00
+Montero           Mitsubishi           49535   2500.00
+Sentra            Nissan               77854   5210.00
+Explorer          Ford                 96481   1080.00
+Bel Air/150/210   Chevrolet            60504   1700.00
+EuroVan           Volkswagen           29058   1530.00
+F-250             Ford                 75208   5950.00
+Grand National    Buick                80139   2500.00
+Blazer            Chevrolet            68275  20600.00
+Fleetwood         Cadillac            111691   9100.00
+F-150             Ford                 58226  15200.00
+F-150             Ford                 16682   2900.00
+Odyssey           Honda               118451  19500.00
+Charger           Dodge               116329   5000.00
+Charger           Dodge               158107   8000.00
+Roadrunner        Plymouth            138219  10200.00
+IS                Lexus                93212   4200.00
+CJ                Jeep                 13647   3250.00
+Mustang           Ford                105651   6200.00
+Karmann Ghia      Volkswagen          116133    920.00
+Mustang           Ford                136503   2030.00

@@ -1,0 +1,132 @@
+Your output:  Enter the size of the hash table: 
+The ideal load factor is: 5.43
+My hash table real load factor is: 9.00
+My hash table performance ratio is: 1.66
+
+HashTable[0], size = 9
+TUDOR             Ford                117385  16450.00
+Allante           Cadillac            145186   6500.00
+Mustang           Ford                 84279   6100.00
+Mustang           Ford                 77900  45400.00
+N944              Porsche              74812   2500.00
+Yaris             Toyota              131969   2550.00
+CR-V              Honda               119358   3500.00
+Impreza           Subaru               91661   3550.00
+300 Series        Chrysler             80293   5390.00
+
+HashTable[1], size = 4
+MX-5 Miata        Mazda               116641   3500.00
+Thunderbird       Ford                136841    560.00
+Sienna            Toyota              136843  15500.00
+N442              Oldsmobile          142336  17980.00
+
+HashTable[2], size = 6
+Bel Air/150/210   Chevrolet           117593   3810.00
+Other             Dodge                 8978  17000.00
+S-Class           Mercedes-Benz        74813   4600.00
+F-100             Ford                132695   4300.00
+Camaro            Chevrolet            64287  18550.00
+Mustang           Ford                137178   7500.00
+
+HashTable[3], size = 8
+Riviera           Buick               153239    500.00
+Charger           Dodge                78273  49810.00
+Corvette          Chevrolet            45651   8800.00
+Grand Cherokee    Jeep                 59728   3400.00
+Tacoma            Toyota               72418   5000.00
+Maxima            Nissan                5250   3050.00
+F-250             Ford                132829   4750.00
+Altima            Nissan               80773   1480.00
+
+HashTable[4], size = 3
+Nova              Chevrolet            77898  24600.00
+Aveo              Chevrolet            84062   1730.00
+Altima            Nissan               29023   4050.00
+
+HashTable[5], size = 5
+Bronco            Ford                 79126  20000.00
+Astro             Chevrolet           136599   2000.00
+Daytona           Studebaker           78272  10600.00
+Daytona           Studebaker           78263  18000.00
+Liberty           Jeep                144540   3020.00
+
+HashTable[6], size = 3
+E-450 Super Duty  Ford                160148   4000.00
+CTS               Cadillac             62409   5600.00
+Corolla           Toyota              158271   4050.00
+
+           Mustang              Ford  137178 is found inside the hash table.
+
+  E-450 Super Duty              Ford  160148 is found inside the hash table.
+
+            Sienna            Toyota  136843 is found inside the hash table.
+
+Charger           Dodge             123456   is NOT found inside the hash table.
+
+WhateverModel     WhateverMake      123456   is NOT found inside the hash table.
+
+Mustang           Ford              137178   is found inside the hash table.
+
+Mustang           Ford              137178   is deleted from hash table.
+
+WhateverModel     WhateverMake      123456   is NOT found inside the hash table.
+
+WhateverModel     WhateverMake      123456   is NOT deleted from hash table.
+
+E-450 Super Duty  Ford              160148   is found inside the hash table.
+
+E-450 Super Duty  Ford              160148   is deleted from hash table.
+
+The ideal load factor is: 5.14
+My hash table real load factor is: 9.00
+My hash table performance ratio is: 1.75
+
+HashTable[0], size = 9
+TUDOR             Ford                117385  16450.00
+Allante           Cadillac            145186   6500.00
+Mustang           Ford                 84279   6100.00
+Mustang           Ford                 77900  45400.00
+N944              Porsche              74812   2500.00
+Yaris             Toyota              131969   2550.00
+CR-V              Honda               119358   3500.00
+Impreza           Subaru               91661   3550.00
+300 Series        Chrysler             80293   5390.00
+
+HashTable[1], size = 4
+MX-5 Miata        Mazda               116641   3500.00
+Thunderbird       Ford                136841    560.00
+Sienna            Toyota              136843  15500.00
+N442              Oldsmobile          142336  17980.00
+
+HashTable[2], size = 5
+Bel Air/150/210   Chevrolet           117593   3810.00
+Other             Dodge                 8978  17000.00
+S-Class           Mercedes-Benz        74813   4600.00
+F-100             Ford                132695   4300.00
+Camaro            Chevrolet            64287  18550.00
+
+HashTable[3], size = 8
+Riviera           Buick               153239    500.00
+Charger           Dodge                78273  49810.00
+Corvette          Chevrolet            45651   8800.00
+Grand Cherokee    Jeep                 59728   3400.00
+Tacoma            Toyota               72418   5000.00
+Maxima            Nissan                5250   3050.00
+F-250             Ford                132829   4750.00
+Altima            Nissan               80773   1480.00
+
+HashTable[4], size = 3
+Nova              Chevrolet            77898  24600.00
+Aveo              Chevrolet            84062   1730.00
+Altima            Nissan               29023   4050.00
+
+HashTable[5], size = 5
+Bronco            Ford                 79126  20000.00
+Astro             Chevrolet           136599   2000.00
+Daytona           Studebaker           78272  10600.00
+Daytona           Studebaker           78263  18000.00
+Liberty           Jeep                144540   3020.00
+
+HashTable[6], size = 2
+CTS               Cadillac             62409   5600.00
+Corolla           Toyota              158271   4050.00
