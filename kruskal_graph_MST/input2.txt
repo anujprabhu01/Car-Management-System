@@ -1,0 +1,9 @@
+7	9
+El Paso,Kansas(941.75),
+Houston,Kansas(745.5),
+Kansas,,
+Atlanta,Boston(1076.5),Chicago(720.55),
+Boston,Dallas(1768.0),El Paso(2384.75),
+Chicago,Houston(1082.3),
+Dallas,Houston(239.5),Kansas(508.75),
+End

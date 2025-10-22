@@ -1,0 +1,58 @@
+
+Print the graph adjacency list before running Dijkstra algorithm
+
+Heap size = 3
+
+Departure      d Value     PI             Arrival List
+Z              10000.00    No Parent      X(100.00/I),Y(180.00/I),
+Y              10001.00    No Parent      Arrival list is empty
+X              10002.00    No Parent      Y(60.00/I),
+
+Enter departure address: 
+
+
+Print the Dijkstra algorithm running result
+
+Departure address: Z
+
+Arrival       Shortest Time(h)    Shortest Path  
+Z              0.00                Z
+X              1.54                Z->X
+Y              2.46                Z->X->Y
+
+Find shortest path for another departure address(yes or no): 
+
+Enter departure address: 
+W does NOT exist
+
+Find shortest path for another departure address(yes or no): 
+
+Enter departure address: 
+
+
+Print the Dijkstra algorithm running result
+
+Departure address: Y
+
+Arrival       Shortest Time(h)    Shortest Path  
+Y              0.00                Y
+Z              None exist          None exist     
+X              None exist          None exist     
+
+Find shortest path for another departure address(yes or no): 
+
+Enter departure address: 
+
+
+Print the Dijkstra algorithm running result
+
+Departure address: X
+
+Arrival       Shortest Time(h)    Shortest Path  
+X              0.00                X
+Y              0.92                X->Y
+Z              None exist          None exist     
+
+Find shortest path for another departure address(yes or no): 
+
+Program terminate

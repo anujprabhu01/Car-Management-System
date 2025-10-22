@@ -1,0 +1,98 @@
+
+Print the graph adjacency list before running Dijkstra algorithm
+
+Heap size = 5
+
+Departure      d Value     PI             Arrival List
+X              10000.00    No Parent      Z(40.00/C),
+Y              10001.00    No Parent      T(30.00/C),X(90.00/C),Z(20.00/C),
+Z              10002.00    No Parent      S(70.00/C),X(60.00/C),
+S              10003.00    No Parent      T(100.00/C),Y(50.00/C),
+T              10004.00    No Parent      X(10.00/C),Y(20.00/C),
+
+Enter departure address: 
+
+
+Print the Dijkstra algorithm running result
+
+Departure address: S
+
+Arrival       Shortest Time(h)    Shortest Path  
+S              0.00                S
+Y              1.11                S->Y
+Z              1.56                S->Y->Z
+T              1.78                S->Y->T
+X              2.00                S->Y->T->X
+
+Find shortest path for another departure address(yes or no): 
+
+Enter departure address: 
+
+
+Print the Dijkstra algorithm running result
+
+Departure address: X
+
+Arrival       Shortest Time(h)    Shortest Path  
+X              0.00                X
+Z              0.89                X->Z
+S              2.44                X->Z->S
+Y              3.56                X->Z->S->Y
+T              4.22                X->Z->S->Y->T
+
+Find shortest path for another departure address(yes or no): 
+
+Enter departure address: 
+U does NOT exist
+
+Find shortest path for another departure address(yes or no): 
+
+Enter departure address: 
+
+
+Print the Dijkstra algorithm running result
+
+Departure address: Z
+
+Arrival       Shortest Time(h)    Shortest Path  
+Z              0.00                Z
+X              1.33                Z->X
+S              1.56                Z->S
+Y              2.67                Z->S->Y
+T              3.33                Z->S->Y->T
+
+Find shortest path for another departure address(yes or no): 
+
+Enter departure address: 
+
+
+Print the Dijkstra algorithm running result
+
+Departure address: Y
+
+Arrival       Shortest Time(h)    Shortest Path  
+Y              0.00                Y
+Z              0.44                Y->Z
+T              0.67                Y->T
+X              0.89                Y->T->X
+S              2.00                Y->Z->S
+
+Find shortest path for another departure address(yes or no): 
+
+Enter departure address: 
+
+
+Print the Dijkstra algorithm running result
+
+Departure address: T
+
+Arrival       Shortest Time(h)    Shortest Path  
+T              0.00                T
+X              0.22                T->X
+Y              0.44                T->Y
+Z              0.89                T->Y->Z
+S              2.44                T->Y->Z->S
+
+Find shortest path for another departure address(yes or no): 
+
+Program terminate

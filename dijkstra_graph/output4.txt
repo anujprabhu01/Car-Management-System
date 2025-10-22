@@ -1,0 +1,256 @@
+
+Print the graph adjacency list before running Dijkstra algorithm
+
+Heap size = 26
+
+Departure      d Value     PI             Arrival List
+A              10000.00    No Parent      H(200.00/A),T(330.00/I),U(150.00/A),Y(100.00/I),
+B              10001.00    No Parent      A(280.00/I),D(13.00/L),F(30.00/C),K(90.00/A),
+C              10002.00    No Parent      G(70.00/A),J(190.00/I),M(22.00/C),R(17.00/C),Z(180.00/I),
+D              10003.00    No Parent      I(33.00/L),J(120.00/A),L(170.00/I),N(120.00/A),O(108.00/I),S(49.00/C),W(31.00/C),
+E              10004.00    No Parent      F(110.00/I),K(60.00/A),M(130.00/I),R(74.00/C),S(90.00/C),W(15.00/L),
+F              10005.00    No Parent      A(110.00/C),J(140.00/I),L(59.00/A),R(20.00/L),Y(48.00/A),Z(29.00/L),
+G              10006.00    No Parent      B(11.00/L),K(20.00/C),M(29.00/A),N(210.00/I),O(23.00/A),P(21.00/C),Q(37.00/L),
+H              10007.00    No Parent      D(140.00/I),G(7.00/L),L(39.00/C),
+I              10008.00    No Parent      B(30.00/A),C(9.00/L),E(120.00/I),Y(18.00/C),
+J              10009.00    No Parent      C(29.00/A),G(16.00/C),H(170.00/I),O(13.00/C),W(12.00/L),Y(24.00/C),
+K              10010.00    No Parent      R(30.00/C),S(18.00/A),
+L              10011.00    No Parent      C(19.00/I),F(9.00/C),I(30.00/A),M(22.00/I),
+M              10012.00    No Parent      P(31.00/A),Y(190.00/I),
+N              10013.00    No Parent      C(17.00/I),Z(11.00/C),
+O              10014.00    No Parent      B(19.00/A),C(17.00/A),F(22.00/C),I(8.00/L),J(23.00/I),P(18.00/C),Q(11.00/A),T(29.00/I),X(17.00/I),
+P              10015.00    No Parent      A(7.00/L),G(17.00/I),I(22.00/I),J(14.00/C),M(14.00/C),O(19.00/I),
+Q              10016.00    No Parent      A(37.00/I),L(12.00/A),V(29.00/I),W(13.00/A),
+R              10017.00    No Parent      D(13.00/C),K(31.00/I),Q(21.00/I),R(8.00/C),S(17.00/A),U(23.00/A),V(16.00/I),Z(17.00/C),
+S              10018.00    No Parent      F(16.00/A),L(23.00/I),
+T              10019.00    No Parent      J(27.00/C),
+U              10020.00    No Parent      C(17.00/I),F(15.00/C),J(20.00/A),L(22.00/A),R(27.00/I),V(27.00/I),Z(10.00/C),
+V              10021.00    No Parent      F(29.00/C),L(22.00/A),T(30.00/I),
+W              10022.00    No Parent      E(29.00/C),I(31.00/I),X(19.00/A),
+X              10023.00    No Parent      D(19.00/A),J(23.00/A),M(19.00/C),N(13.00/L),R(18.00/C),S(28.00/A),T(13.00/C),
+Y              10024.00    No Parent      Arrival list is empty
+Z              10025.00    No Parent      A(21.00/A),F(23.00/I),M(17.00/C),N(13.00/C),O(19.00/C),P(29.00/I),W(47.00/I),
+
+Enter departure address: 
+
+
+Print the Dijkstra algorithm running result
+
+Departure address: A
+
+Arrival       Shortest Time(h)    Shortest Path  
+A              0.00                A
+Y              1.54                A->Y
+U              2.73                A->U
+Z              2.95                A->U->Z
+C              2.99                A->U->C
+F              3.06                A->U->F
+J              3.09                A->U->J
+L              3.13                A->U->L
+R              3.14                A->U->R
+V              3.14                A->U->V
+N              3.24                A->U->Z->N
+M              3.33                A->U->Z->M
+O              3.37                A->U->Z->O
+P              3.40                A->U->Z->P
+D              3.43                A->U->R->D
+G              3.45                A->U->J->G
+S              3.45                A->U->R->S
+Q              3.47                A->U->R->Q
+W              3.57                A->U->J->W
+T              3.60                A->U->V->T
+K              3.62                A->U->R->K
+X              3.63                A->U->Z->O->X
+H              3.64                A->H
+I              3.67                A->U->L->I
+B              3.72                A->U->Z->O->B
+E              4.22                A->U->J->W->E
+
+Find shortest path for another departure address(yes or no): 
+
+Enter departure address: 
+
+
+Print the Dijkstra algorithm running result
+
+Departure address: B
+
+Arrival       Shortest Time(h)    Shortest Path  
+B              0.00                B
+D              0.52                B->D
+F              0.67                B->F
+W              1.21                B->D->W
+R              1.47                B->F->R
+Y              1.54                B->F->Y
+X              1.55                B->D->W->X
+S              1.61                B->D->S
+K              1.64                B->K
+I              1.69                B->D->W->I
+V              1.71                B->F->R->V
+L              1.74                B->F->L
+Q              1.79                B->F->R->Q
+Z              1.83                B->F->Z
+T              1.84                B->D->W->X->T
+E              1.85                B->D->W->E
+U              1.88                B->F->R->U
+J              1.97                B->D->W->X->J
+M              1.98                B->D->W->X->M
+C              2.03                B->F->L->C
+N              2.07                B->D->W->X->N
+O              2.18                B->D->O
+A              2.21                B->F->Z->A
+P              2.27                B->F->Z->P
+G              2.33                B->D->W->X->J->G
+H              4.59                B->D->W->X->J->H
+
+Find shortest path for another departure address(yes or no): 
+
+Enter departure address: 
+
+
+Print the Dijkstra algorithm running result
+
+Departure address: C
+
+Arrival       Shortest Time(h)    Shortest Path  
+C              0.00                C
+R              0.38                C->R
+M              0.49                C->M
+V              0.62                C->R->V
+D              0.67                C->R->D
+S              0.69                C->R->S
+Q              0.70                C->R->Q
+Z              0.76                C->R->Z
+U              0.80                C->R->U
+K              0.85                C->R->K
+L              0.92                C->R->Q->L
+W              0.94                C->R->Q->W
+F              0.98                C->R->S->F
+N              1.04                C->R->Z->N
+P              1.05                C->M->P
+T              1.09                C->R->V->T
+A              1.14                C->R->Z->A
+J              1.16                C->R->U->J
+O              1.18                C->R->Z->O
+G              1.27                C->G
+X              1.28                C->R->Q->W->X
+I              1.39                C->M->P->I
+B              1.52                C->R->Z->O->B
+E              1.58                C->R->Q->W->E
+Y              1.69                C->R->U->J->Y
+H              3.77                C->R->U->J->H
+
+Find shortest path for another departure address(yes or no): 
+
+Enter departure address: 
+
+
+Print the Dijkstra algorithm running result
+
+Departure address: F
+
+Arrival       Shortest Time(h)    Shortest Path  
+F              0.00                F
+R              0.80                F->R
+Y              0.87                F->Y
+V              1.05                F->R->V
+L              1.07                F->L
+D              1.09                F->R->D
+S              1.11                F->R->S
+Q              1.12                F->R->Q
+Z              1.16                F->Z
+U              1.22                F->R->U
+K              1.28                F->R->K
+W              1.36                F->R->Q->W
+C              1.37                F->L->C
+M              1.41                F->L->M
+N              1.45                F->Z->N
+T              1.51                F->R->V->T
+A              1.54                F->Z->A
+J              1.58                F->R->U->J
+O              1.58                F->Z->O
+P              1.61                F->Z->P
+I              1.62                F->L->I
+X              1.70                F->R->Q->W->X
+G              1.87                F->Z->P->G
+B              1.93                F->Z->O->B
+E              2.00                F->R->Q->W->E
+H              4.20                F->R->U->J->H
+
+Find shortest path for another departure address(yes or no): 
+
+Enter departure address: 
+
+
+Print the Dijkstra algorithm running result
+
+Departure address: L
+
+Arrival       Shortest Time(h)    Shortest Path  
+L              0.00                L
+F              0.20                L->F
+C              0.29                L->C
+M              0.34                L->M
+I              0.55                L->I
+R              0.67                L->C->R
+P              0.90                L->M->P
+V              0.92                L->C->R->V
+Y              0.95                L->I->Y
+D              0.96                L->C->R->D
+S              0.98                L->C->R->S
+Q              0.99                L->C->R->Q
+Z              1.05                L->C->R->Z
+U              1.09                L->C->R->U
+B              1.09                L->I->B
+K              1.15                L->C->R->K
+G              1.16                L->M->P->G
+A              1.18                L->M->P->A
+O              1.19                L->M->P->O
+J              1.21                L->M->P->J
+W              1.23                L->C->R->Q->W
+N              1.34                L->C->R->Z->N
+T              1.38                L->C->R->V->T
+X              1.46                L->M->P->O->X
+E              1.87                L->C->R->Q->W->E
+H              3.83                L->M->P->J->H
+
+Find shortest path for another departure address(yes or no): 
+
+Enter departure address: 
+
+
+Print the Dijkstra algorithm running result
+
+Departure address: X
+
+Arrival       Shortest Time(h)    Shortest Path  
+X              0.00                X
+T              0.29                X->T
+D              0.35                X->D
+R              0.40                X->R
+J              0.42                X->J
+M              0.42                X->M
+S              0.51                X->S
+N              0.52                X->N
+V              0.65                X->R->V
+O              0.71                X->J->O
+Q              0.72                X->R->Q
+Z              0.76                X->N->Z
+G              0.77                X->J->G
+C              0.78                X->N->C
+F              0.80                X->S->F
+U              0.82                X->R->U
+L              0.86                X->S->L
+K              0.88                X->R->K
+W              0.90                X->J->W
+Y              0.95                X->J->Y
+P              0.99                X->M->P
+I              1.03                X->J->O->I
+B              1.05                X->J->O->B
+A              1.15                X->N->Z->A
+E              1.54                X->J->W->E
+H              3.03                X->J->H
+
+Find shortest path for another departure address(yes or no): 
+
+Program terminate

@@ -1,0 +1,11 @@
+9	14
+Seattle,San Francisco(808.5),Phoenix(1416.3),
+Atlanta,Santa Fe(1390.4),
+Santa Fe,Tuscon(512.2),
+Tuscon,,
+San Francisco,Los Angeles(383.0),Phoenix(754.4),
+Phoenix,Tuscon(113.5),San Diego(355.55),
+Los Angeles,Honolulu(2560.1),Santa Fe(848.2),San Diego(120.4),
+San Diego,Tuscon(407.2),
+Honolulu,Santa Fe(2662.3),Atlanta(7240.3),
+End

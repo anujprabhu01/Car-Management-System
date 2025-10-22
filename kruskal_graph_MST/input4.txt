@@ -1,0 +1,13 @@
+11	22
+Chicago,Dallas(200.0),Kansas(610.0),
+Dallas,Miami(420.5),Tampa(1200.0),El Paso(900.3),
+Tampa,,
+El Paso,Miami(300.3),Tampa(740.4),
+Houston,Kansas(530.0),New York(800.0),
+Atlanta,Boston(420.3),Houston(610.2),New York(1600.1),
+Boston,Chicago(300.6),Dallas(2400.0),Miami(700.9),Houston(530.3),
+Kansas,Miami(200.3),Phoenix(610.0),
+Miami,New York(1100.0),Tampa(420.0),
+New York,Phoenix(420.0),
+Phoenix,Tampa(1000.0),
+End
